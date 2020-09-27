@@ -1,0 +1,35 @@
+
+@media (max-width: 1000px ){
+  .card{
+
+    float:left;
+      width:50%;
+      padding:20px 10px;
+
+  }
+  .service{
+    float:left;
+    width: 50%;
+  }
+
+  .form{
+    width:100%;
+
+  }
+
+  .contactform{
+  display:block;
+
+  }
+
+  .form-left{
+    padding:0px;
+    margin:30px;
+  }
+  .form input  {
+width: 100%;
+  }
+.textarea{
+  width:100%;
+}
+}
